@@ -245,7 +245,9 @@
         "Presentación a la organización",
         "Minuta",
         "Validación"
-      ]
+      ],
+      "al_final": true,
+      "al_final_msg": "Se califica al final, después de presentar el modelo a la organización: fecha, minuta con cargos, aprobación y qué cambió."
     },
     {
       "criterio": "10. Entrega, revisión cruzada y trabajo en equipo",
