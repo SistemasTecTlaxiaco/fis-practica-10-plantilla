@@ -41,7 +41,7 @@ El robot revisa cada pull request y busca la evidencia de cada criterio **sin im
 | ⚠️ Revisar | Hay evidencia, pero no donde se esperaba; el docente la confirma | No |
 | ❌ No encontrado | No hay evidencia del criterio. Ese criterio no puede quedar en Excelente, salvo que el docente la encuentre | No |
 | ⛔ Corregir | Falta el documento o el diagrama, o hay datos personales | **Sí** |
-| ⏳ Al final | Criterio que se califica al cerrar la práctica (trabajo por pull request) | No |
+| ⏳ Al final | Criterio que se califica al cerrar la práctica (el 9) | No |
 
 El robot confirma que la información **existe**; esta rúbrica juzga si está **bien**. Una entrega puede salir toda en ✅ y quedar en Bueno.
 
@@ -146,6 +146,8 @@ El robot confirma que la información **existe**; esta rúbrica juzga si está *
 ### 9. Presentación y validación con la organización
 
 3 puntos · Indicador A, F
+
+> ⏳ **Se califica al final**, después de presentar el modelo a la organización (fecha, minuta con cargos, aprobación y cambios). El robot lo muestra como «Al final» y no lo marca como faltante mientras tanto.
 
 | Nivel | Puntos | Descripción |
 |---|:---:|---|

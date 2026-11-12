@@ -30,6 +30,7 @@ Integren el negocio (Unidad 2) y los requisitos (Unidad 3) en una sola represent
 4. El robot deja un comentario con lo que encontró:
    - ✅ encontrado · ⚠️ hay evidencia, el docente la confirma · ❌ no encontrado (no bloquea, pero baja el nivel en la rúbrica)
    - ⛔ **bloquea la fusión**: falta el documento o los diagramas, o hay datos personales.
+   - ⏳ **al final**: el criterio 9 (presentación y validación con la organización) se califica después de presentar.
 5. Corrijan en la misma rama; la revisión se repite sola con cada cambio.
 6. Otro integrante revisa con un comentario concreto, aprueba y fusiona.
 
